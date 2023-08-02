@@ -1,1 +1,1 @@
-# NVIDIA-Stock-Price-Prediction-Based-On-AWS-SageMaker
+# Stock-Price-Prediction-Based-On-AWS-SageMaker
